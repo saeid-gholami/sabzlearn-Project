@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "IranSanse";
+    font-weight: 500;
+    font-style: normal;
+    src: url('../public/fonts/IRANSans/IRANSans.ttf');
+}
+
+@font-face {
+    font-family: "IranSanse";
+    font-weight: 800;
+    font-style: normal;
+    src: url('../public/fonts/IRANSans/IRANSans_Black.ttf');
+}
+
+@font-face {
+    font-family: "IranSanse";
+    font-weight: 700;
+    font-style: normal;
+    src: url('../public/fonts/IRANSans/IRANSans_Bold.ttf');
+}
+
+@font-face {
+    font-family: "IranSanse";
+    font-size: 200;
+    font-style: normal;
+    src: url('../public/fonts/IRANSans/IRANSans_Light.ttf');
+}
+
+@font-face {
+    font-family: "IranSanse";
+    font-weight: 600;
+    font-style: normal;
+    src: url('../public/fonts/IRANSans/IRANSans_Medium.ttf');
+}
+
+@font-face {
+    font-family: "IranSanse";
+    font-weight: 100;
+    font-style: normal;
+    src: url('../public/fonts/IRANSans/IRANSans_UltraLight.ttf');
+}

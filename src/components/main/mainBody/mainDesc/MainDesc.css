@@ -1,0 +1,43 @@
+.mainDesc {
+    padding: 6rem 3rem 4rem 3rem;
+    color: #fff;
+}
+
+.mainDesc__title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin: 1rem 0rem 0.75rem 0;
+}
+
+.mainDesc__text {
+    font-size: 1rem;
+    line-height: 2rem;
+    color: rgb(209, 213, 219);
+}
+
+.seeMore__btn {
+    height: 2.5rem;
+    padding-left: .75rem;
+    padding-right: .75rem;
+    font-size: .875rem;
+    line-height: 1.5rem;
+    background-color: transparent;
+    border: 1px solid rgb(30 179 91);
+    outline: none;
+    color: rgb(30 179 91);
+    border-radius: 0.5rem;
+    -webkit-border-radius: 0.5rem;
+    -moz-border-radius: 0.5rem;
+    -ms-border-radius: 0.5rem;
+    -o-border-radius: 0.5rem;
+    font-size: 14px;
+    transition: all 200ms linear;
+    -webkit-transition: all 200ms linear;
+    -moz-transition: all 200ms linear;
+    -ms-transition: all 200ms linear;
+    -o-transition: all 200ms linear;
+}
+
+.seeMore__btn:hover {
+    background-color: #1eb35b1a;
+}

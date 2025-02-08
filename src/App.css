@@ -1,0 +1,28 @@
+@import url('./reset.css');
+@import url('./fonts.css');
+
+body {
+    font-family: "IranSanse" !important;
+    font-weight: 500 !important;
+    background-color: rgb(17 24 39) !important;
+}
+
+/* Customize the scrollbar's track */
+::-webkit-scrollbar {
+    width: 8px;
+    /* Width of the scrollbar */
+}
+
+/* Customize the scrollbar's track */
+::-webkit-scrollbar-track {
+    background: rgb(61, 71, 94);
+    /* Color of the scrollbar track */
+}
+
+/* Customize the scrollbar's thumb */
+::-webkit-scrollbar-thumb {
+    background: rgb(36 42 56);;
+    /* Color of the scrollbar thumb */
+    border-radius: 10px;
+    /* Round corners of the scrollbar thumb */
+}
